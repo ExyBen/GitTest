@@ -23,7 +23,7 @@ function App() {
   }
   return (
     <div className="App">
-      <h1> CRUD APPLICATION</h1>
+      <h1> CRUD APPLICATION MODIF GIT</h1>
       <div className="form">
         <label>Movie Name :</label>
         <input type="text" name="movieName" onChange={(e)=>{
